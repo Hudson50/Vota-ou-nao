@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(10, 96, 96);
+    text-align: center;
+}
+section {
+    background-color: rgba(255, 255, 255, 0.678);
+    padding: 15px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.475);
+    margin: auto;
+
+}
+#res { 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    margin: 50px;
+}
